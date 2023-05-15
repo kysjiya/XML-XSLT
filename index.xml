@@ -1,0 +1,32 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<?xml-model href="products.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<!-- <?xml-model href="products.dtd" type="application/xml-dtd"?> -->
+<?xml-stylesheet href="products.xsl" type="text/xsl"?>
+
+<products>
+
+<product>
+<productname>Headphone</productname>
+<productrating>5</productrating>
+<productprice> 8900</productprice>
+</product>
+
+<product>
+<productname>Mouse</productname>
+<productrating>3</productrating>
+<productprice> 3500</productprice>
+</product>
+
+<product>
+<productname>Monitor</productname>
+<productrating>2</productrating>
+<productprice> 6700</productprice>
+</product>
+
+<product>
+<productname>Keyboard</productname>
+<productrating>4</productrating>
+<productprice> 1500</productprice>
+</product>
+
+</products>
